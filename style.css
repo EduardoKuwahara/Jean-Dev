@@ -1,0 +1,36 @@
+.cabecalho {
+    border: 2px solid rgba(255, 255, 255, 0);
+    margin: 10px auto; 
+    max-width: 90%;
+}
+
+body {
+    background-image: url(./Imagens/fundo.png);
+    margin: 10px auto;
+    max-width: 80%;
+}
+
+.link {
+    margin-left: 350px;
+}
+h1 {
+    font-size: 25px;
+    margin-left: 50px;
+}
+h2 {
+    font-size: 17px;
+    margin-left: 50px;
+    
+}
+
+h3 {
+    font-size: 17px;
+    margin-left: 50px;
+    
+}
+.capa {
+    margin-left: 50px;
+}
+.roda {
+    text-align: center;
+}
